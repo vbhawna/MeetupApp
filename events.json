@@ -1,0 +1,146 @@
+[
+  {
+    "title": "AI & Machine Learning Summit",
+    "tags": ["AI", "machine-learning", "technology"],
+    "hostedBy": "Tech Innovators Hub",
+    "eventStartDateAndTime": "Sat Sep 20 2025 at 09:00:00 AM",
+    "eventEndDateAndTime": "Sat Sep 20 2025 at 05:00:00 PM",
+    "typeOfEvent": "Offline",
+    "location": "Innovation Center, 245 Tech Park Road, Bengaluru",
+    "fee": 5000,
+    "speakers": [
+      { "name": "Dr. Ananya Rao", "position": "AI Research Scientist" },
+      { "name": "Rahul Mehta", "position": "Machine Learning Engineer" }
+    ],
+    "details": "Explore the latest advancements in artificial intelligence and machine learning. Learn about real-world applications, model deployment, and future trends from industry experts.",
+    "imageUrl": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg",
+    "dressCode": "Business Casual",
+    "ageRestrictions": "18 and above"
+  },
+  {
+    "title": "Startup Founders Meetup",
+    "tags": ["startup", "entrepreneurship", "networking"],
+    "hostedBy": "Entrepreneur Circle",
+    "eventStartDateAndTime": "Fri Oct 10 2025 at 04:00:00 PM",
+    "eventEndDateAndTime": "Fri Oct 10 2025 at 08:00:00 PM",
+    "typeOfEvent": "Offline",
+    "location": "Startup Hub, 120 Venture Street, Mumbai",
+    "fee": 1500,
+    "speakers": [
+      { "name": "Priya Kapoor", "position": "Startup Founder" },
+      { "name": "Aman Verma", "position": "Angel Investor" }
+    ],
+    "details": "Connect with founders, investors, and innovators. Gain insights into fundraising, scaling businesses, and building successful startups.",
+    "imageUrl": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg",
+    "dressCode": "Smart Casual",
+    "ageRestrictions": "21 and above"
+  },
+  {
+    "title": "Web Development Bootcamp",
+    "tags": ["web-development", "javascript", "react"],
+    "hostedBy": "Code Masters Academy",
+    "eventStartDateAndTime": "Sun Nov 16 2025 at 10:00:00 AM",
+    "eventEndDateAndTime": "Sun Nov 16 2025 at 04:00:00 PM",
+    "typeOfEvent": "Online",
+    "location": "Zoom Webinar",
+    "fee": 2500,
+    "speakers": [
+      { "name": "Neha Sharma", "position": "Full Stack Developer" },
+      { "name": "Arjun Patel", "position": "React Specialist" }
+    ],
+    "details": "Master modern web development with hands-on sessions covering HTML, CSS, JavaScript, React, and backend integration.",
+    "imageUrl": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
+    "dressCode": "Casual",
+    "ageRestrictions": "16 and above"
+  },
+  {
+    "title": "Cybersecurity Awareness Conference",
+    "tags": ["cybersecurity", "security", "IT"],
+    "hostedBy": "SecureNet Foundation",
+    "eventStartDateAndTime": "Thu Dec 04 2025 at 11:00:00 AM",
+    "eventEndDateAndTime": "Thu Dec 04 2025 at 03:00:00 PM",
+    "typeOfEvent": "Offline",
+    "location": "Cyber Hall, 56 Security Lane, Hyderabad",
+    "fee": 3500,
+    "speakers": [
+      { "name": "Karan Singh", "position": "Cybersecurity Consultant" },
+      { "name": "Ritika Das", "position": "Ethical Hacker" }
+    ],
+    "details": "Learn about cybersecurity threats, ethical hacking, data protection, and best practices to secure personal and business information.",
+    "imageUrl": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg",
+    "dressCode": "Formal",
+    "ageRestrictions": "18 and above"
+  },
+  {
+    "title": "Health & Wellness Expo",
+    "tags": ["health", "fitness", "wellness"],
+    "hostedBy": "Healthy Living Society",
+    "eventStartDateAndTime": "Sat Jan 17 2026 at 09:30:00 AM",
+    "eventEndDateAndTime": "Sat Jan 17 2026 at 02:30:00 PM",
+    "typeOfEvent": "Offline",
+    "location": "Wellness Center, 88 Green Avenue, Pune",
+    "fee": 1000,
+    "speakers": [
+      { "name": "Dr. Meera Joshi", "position": "Nutritionist" },
+      { "name": "Vikram Nair", "position": "Fitness Coach" }
+    ],
+    "details": "Discover healthy lifestyle practices, fitness routines, nutrition plans, and mental wellness strategies from leading experts.",
+    "imageUrl": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
+    "dressCode": "Sportswear",
+    "ageRestrictions": "All ages"
+  },
+  {
+    "title": "Photography Masterclass",
+    "tags": ["photography", "creative", "art"],
+    "hostedBy": "Creative Lens Studio",
+    "eventStartDateAndTime": "Sun Feb 08 2026 at 01:00:00 PM",
+    "eventEndDateAndTime": "Sun Feb 08 2026 at 05:00:00 PM",
+    "typeOfEvent": "Offline",
+    "location": "Art Gallery Hall, 44 Camera Street, Jaipur",
+    "fee": 2200,
+    "speakers": [
+      { "name": "Rohan Malhotra", "position": "Professional Photographer" },
+      { "name": "Sonia Gupta", "position": "Wildlife Photographer" }
+    ],
+    "details": "Improve your photography skills with practical sessions on composition, lighting, editing, and storytelling through images.",
+    "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
+    "dressCode": "Casual",
+    "ageRestrictions": "15 and above"
+  },
+  {
+    "title": "Financial Planning Workshop",
+    "tags": ["finance", "investment", "wealth-management"],
+    "hostedBy": "Smart Finance Institute",
+    "eventStartDateAndTime": "Sat Mar 14 2026 at 10:00:00 AM",
+    "eventEndDateAndTime": "Sat Mar 14 2026 at 01:00:00 PM",
+    "typeOfEvent": "Online",
+    "location": "Microsoft Teams",
+    "fee": 1800,
+    "speakers": [
+      { "name": "Deepak Agarwal", "position": "Financial Advisor" },
+      { "name": "Nidhi Sharma", "position": "Investment Analyst" }
+    ],
+    "details": "Learn budgeting, investing, tax planning, retirement strategies, and wealth management techniques for long-term financial success.",
+    "imageUrl": "https://images.pexels.com/photos/4386370/pexels-photo-4386370.jpeg",
+    "dressCode": "Business Casual",
+    "ageRestrictions": "18 and above"
+  },
+  {
+    "title": "Environmental Sustainability Forum",
+    "tags": ["environment", "sustainability", "climate"],
+    "hostedBy": "Green Earth Initiative",
+    "eventStartDateAndTime": "Wed Apr 22 2026 at 09:00:00 AM",
+    "eventEndDateAndTime": "Wed Apr 22 2026 at 01:00:00 PM",
+    "typeOfEvent": "Offline",
+    "location": "Eco Convention Center, 15 Nature Road, Delhi",
+    "fee": 1200,
+    "speakers": [
+      { "name": "Dr. Kavita Menon", "position": "Environmental Scientist" },
+      { "name": "Ajay Khanna", "position": "Sustainability Consultant" }
+    ],
+    "details": "Join environmental experts to discuss climate change, renewable energy, sustainable development, and eco-friendly innovations.",
+    "imageUrl": "https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg",
+    "dressCode": "Casual",
+    "ageRestrictions": "16 and above"
+  }
+]
