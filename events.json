@@ -1,4 +1,21 @@
 [
+  { "title": "Marketing Seminar", 
+    "tags": ["marketing", "digital"], 
+    "hostedBy": "Marketing Experts", 
+    "eventStartDateAndTime": "Tue Aug 15 2023 at 10:00:00 AM", 
+    "eventEndDateAndTime": "Tue Aug 15 2023 at 12:00:00 PM", 
+    "typeOfEvent": "Offline", 
+     "location": "Mareting City, 798 Marketing Avenue, city", 
+     "fee": 3000, 
+     "speakers": [
+        {"name": "Sarah Johnson", "position": "Marketing Manager", "imageUrl": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg"}, 
+        {"name": "Michael Brown", "position": "SEO Specialist", "imageUrl": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg"}
+      ], 
+      "details": "Stay ahead of the game in the dynamic field of digital marketing by attending the Marketing Seminar organized by Marketing Experts. This offline seminar will be held on August 15th from 10:00 AM to 12:00 PM at Marketing City, situated at 789 Marketing Avenue, City. Join industry leaders Sarah Johnson, Marketing Manager, and Michael Brown, SEO Specialist, as they delve into the latest trends and strategies in digital marketing. The seminar is open to individuals aged 18 and above and requires a ticket priced at ₹3,000. The dress code for the event is smart casual.", 
+      "imageUrl": "https://images.pexels.com/photos/6476776/pexels-photo-6476776.jpeg", 
+      "dressCode": "Smart Casual", 
+      "ageRestrictions": "18 and above" 
+  },
   {
     "title": "AI & Machine Learning Summit",
     "tags": ["AI", "machine-learning", "technology"],
@@ -9,8 +26,8 @@
     "location": "Innovation Center, 245 Tech Park Road, Bengaluru",
     "fee": 5000,
     "speakers": [
-      { "name": "Dr. Ananya Rao", "position": "AI Research Scientist" },
-      { "name": "Rahul Mehta", "position": "Machine Learning Engineer" }
+      { "name": "Dr. Ananya Rao", "position": "AI Research Scientist", "imageUrl": "https://images.pexels.com/photos/415829/pexels-photo-415829.jpeg" },
+      { "name": "Rahul Mehta", "position": "Machine Learning Engineer", "imageUrl": "https://images.pexels.com/photos/2379004/pexels-photo-2379004.jpeg" }
     ],
     "details": "Explore the latest advancements in artificial intelligence and machine learning. Learn about real-world applications, model deployment, and future trends from industry experts.",
     "imageUrl": "https://images.pexels.com/photos/8386434/pexels-photo-8386434.jpeg",
@@ -27,8 +44,8 @@
     "location": "Startup Hub, 120 Venture Street, Mumbai",
     "fee": 1500,
     "speakers": [
-      { "name": "Priya Kapoor", "position": "Startup Founder" },
-      { "name": "Aman Verma", "position": "Angel Investor" }
+      { "name": "Priya Kapoor", "position": "Startup Founder", "imageUrl": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg" },
+      { "name": "Aman Verma", "position": "Angel Investor", "imageUrl": "https://images.pexels.com/photos/91227/pexels-photo-91227.jpeg" }
     ],
     "details": "Connect with founders, investors, and innovators. Gain insights into fundraising, scaling businesses, and building successful startups.",
     "imageUrl": "https://images.pexels.com/photos/3183150/pexels-photo-3183150.jpeg",
@@ -45,8 +62,8 @@
     "location": "Zoom Webinar",
     "fee": 2500,
     "speakers": [
-      { "name": "Neha Sharma", "position": "Full Stack Developer" },
-      { "name": "Arjun Patel", "position": "React Specialist" }
+      { "name": "Neha Sharma", "position": "Full Stack Developer", "imageUrl": "https://images.pexels.com/photos/1181686/pexels-photo-1181686.jpeg" },
+      { "name": "Arjun Patel", "position": "React Specialist", "imageUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg" }
     ],
     "details": "Master modern web development with hands-on sessions covering HTML, CSS, JavaScript, React, and backend integration.",
     "imageUrl": "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg",
@@ -63,8 +80,8 @@
     "location": "Cyber Hall, 56 Security Lane, Hyderabad",
     "fee": 3500,
     "speakers": [
-      { "name": "Karan Singh", "position": "Cybersecurity Consultant" },
-      { "name": "Ritika Das", "position": "Ethical Hacker" }
+      { "name": "Karan Singh", "position": "Cybersecurity Consultant", "imageUrl": "https://images.pexels.com/photos/1043474/pexels-photo-1043474.jpeg" },
+      { "name": "Ritika Das", "position": "Ethical Hacker", "imageUrl": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg" }
     ],
     "details": "Learn about cybersecurity threats, ethical hacking, data protection, and best practices to secure personal and business information.",
     "imageUrl": "https://images.pexels.com/photos/60504/security-protection-anti-virus-software-60504.jpeg",
@@ -81,8 +98,8 @@
     "location": "Wellness Center, 88 Green Avenue, Pune",
     "fee": 1000,
     "speakers": [
-      { "name": "Dr. Meera Joshi", "position": "Nutritionist" },
-      { "name": "Vikram Nair", "position": "Fitness Coach" }
+      { "name": "Dr. Meera Joshi", "position": "Nutritionist", "imageUrl": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg" },
+      { "name": "Vikram Nair", "position": "Fitness Coach", "imageUrl": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg" }
     ],
     "details": "Discover healthy lifestyle practices, fitness routines, nutrition plans, and mental wellness strategies from leading experts.",
     "imageUrl": "https://images.pexels.com/photos/4498606/pexels-photo-4498606.jpeg",
@@ -99,8 +116,8 @@
     "location": "Art Gallery Hall, 44 Camera Street, Jaipur",
     "fee": 2200,
     "speakers": [
-      { "name": "Rohan Malhotra", "position": "Professional Photographer" },
-      { "name": "Sonia Gupta", "position": "Wildlife Photographer" }
+      { "name": "Rohan Malhotra", "position": "Professional Photographer", "imageUrl": "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg" },
+      { "name": "Sonia Gupta", "position": "Wildlife Photographer", "imageUrl": "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg" }
     ],
     "details": "Improve your photography skills with practical sessions on composition, lighting, editing, and storytelling through images.",
     "imageUrl": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg",
@@ -117,8 +134,8 @@
     "location": "Microsoft Teams",
     "fee": 1800,
     "speakers": [
-      { "name": "Deepak Agarwal", "position": "Financial Advisor" },
-      { "name": "Nidhi Sharma", "position": "Investment Analyst" }
+      { "name": "Deepak Agarwal", "position": "Financial Advisor", "imageUrl": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg" },
+      { "name": "Nidhi Sharma", "position": "Investment Analyst", "imageUrl": "https://images.pexels.com/photos/3760263/pexels-photo-3760263.jpeg" }
     ],
     "details": "Learn budgeting, investing, tax planning, retirement strategies, and wealth management techniques for long-term financial success.",
     "imageUrl": "https://images.pexels.com/photos/4386370/pexels-photo-4386370.jpeg",
@@ -135,8 +152,8 @@
     "location": "Eco Convention Center, 15 Nature Road, Delhi",
     "fee": 1200,
     "speakers": [
-      { "name": "Dr. Kavita Menon", "position": "Environmental Scientist" },
-      { "name": "Ajay Khanna", "position": "Sustainability Consultant" }
+      { "name": "Dr. Kavita Menon", "position": "Environmental Scientist", "imageUrl": "https://images.pexels.com/photos/3777943/pexels-photo-3777943.jpeg" },
+      { "name": "Ajay Khanna", "position": "Sustainability Consultant", "imageUrl": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg" }
     ],
     "details": "Join environmental experts to discuss climate change, renewable energy, sustainable development, and eco-friendly innovations.",
     "imageUrl": "https://images.pexels.com/photos/957024/forest-trees-perspective-bright-957024.jpeg",
